@@ -1,0 +1,1 @@
+These are the last binding data for the protein-ligand structures in Binding MOAD (sunset on 7/1/2024).  It is a csv file, and you should use caution opening it with Excel.  You MUST make all columns "text" when you open it or it will turn some PDBids into dates or numbers (4APR becomes 4th of April, 1E12 becomes a number).
